@@ -1,0 +1,7 @@
+cryptography
+matplotlib
+pandas
+python-dotenv
+snowflake-connector-python
+streamlit
+tabulate
